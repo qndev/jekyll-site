@@ -14,6 +14,9 @@ disqus:
 
 google_analytics: # UA-NNNNNNNN-N
 
+feeds:
+  feedburner: qndev
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
