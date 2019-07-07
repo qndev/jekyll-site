@@ -47,7 +47,7 @@ comments: true
 Format: ![Alt Text](url)
 ```
 
-![Screenshot home page](https://raw.githubusercontent.com/qndev/jekyll-theme/master/images/screenshot-homepage.png)
+![Screenshot home page](https://raw.githubusercontent.com/qndev/jekyll-theme/master/images/screenshot.png)
 
 # EMPHASIS
 ```
