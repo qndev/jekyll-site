@@ -10,12 +10,13 @@ paginate_path: "/page:num/"
 
 # Disqus Comments
 disqus:
-  shortname: https-qndev-github-io
+  shortname: jekyll-theme
 
 google_analytics: # UA-NNNNNNNN-N
 
 feeds:
-  feedburner: qndev
+  feedburner: jekyll-theme
+  subscribe: jekyll-theme
 
 markdown: kramdown
 highlighter: rouge
