@@ -16,6 +16,7 @@ google_analytics: # UA-NNNNNNNN-N
 
 feeds:
   feedburner: qndev
+  subscribe: qndev
 
 markdown: kramdown
 highlighter: rouge
