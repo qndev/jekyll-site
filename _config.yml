@@ -15,8 +15,8 @@ disqus:
 google_analytics: # UA-NNNNNNNN-N
 
 feeds:
-  feedburner: qndev
-  subscribe: qndev
+  feedburner: jekyll-theme
+  subscribe: jekyll-theme
 
 markdown: kramdown
 highlighter: rouge
