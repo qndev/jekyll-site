@@ -248,6 +248,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-gist
   jekyll-octicons
   jekyll-paginate
   jemoji

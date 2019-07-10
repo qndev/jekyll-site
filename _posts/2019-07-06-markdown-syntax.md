@@ -89,11 +89,27 @@ As Grace Hopper said:
 > in the future than in the past.
 
 # Syntax highlighting
+
+###### Rouge
 ```javascript
 function test() {
 console.log("look ma’, no spaces");
 }
 ```
+
+```java
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}
+```
+
+###### Gist
+
+{% gist e8ef18051d1b0277f2d7cf78c3fd96fe test.js %}
+
+{% gist 4914f8921f09863f7c3ea2ebbb02206a HelloWorld.java %}
 
 # Task Lists
 ```
